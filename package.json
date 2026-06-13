@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-sql-longtermretention",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure SQL Database management API provides RESTful web APIs for database CRUD operations.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-sql-longtermretention",
